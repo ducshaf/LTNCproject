@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1678456715 source:d:\study stuff\c++ programming (1st year)\btl\main.cpp
+	<iostream>
+	<SDL.h>
+
